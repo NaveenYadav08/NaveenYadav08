@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Naveen Yadav
 - 👀 I’m interested in Web Development and DSA
-- 🌱 I’m currently learning React and Competitive Programming 
 - 📫 To reach me mail on @greatguy494@gmail.com
 
 <!---
