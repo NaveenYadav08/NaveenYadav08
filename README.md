@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naveen Yadav
-- 👀 I’m interested in Web Development and DSA
+- 👀 I’m interested in Development and DSA
 - 📫 To reach me mail on @greatguy494@gmail.com
 
 <!---
